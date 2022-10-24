@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @210Percent
-- 👀 I’m interested in, Pokemon
-- 🌱 I’m currently learning, coding
-- 💞️ I’m looking to collaborate on, stuff
-- 📫 How to reach me, don't
+I can't code but I have an account, so there's that.
 
 <!---
 210Percent/210Percent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
